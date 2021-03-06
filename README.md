@@ -7,4 +7,4 @@
 <p align="center">Acima você pode inserir os valores referente ao combustível, ao consumo do seu carro e a quantidade de litros da bomba.</p>
 <p align="center"> A aplicação irá calcula-los e retornará um valor.</p>
 
-Está hospedado no Netlify caso queira verificar: https://flamboyant-bell-8e57ef.netlify.app/
+<p align="center">Está hospedado no Netlify caso queira verificar: https://flamboyant-bell-8e57ef.netlify.app/</p>
