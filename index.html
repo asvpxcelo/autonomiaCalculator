@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    
+    <title>Calcular Quilometragem</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div id="group">
+        <h1 id="quilo">Autonomia Calculator</h1>
+        <form action=""  id="form-group">
+
+          <div id="textos">
+          <label for="Quilometragem" id="valor-bomba">Valor da Bomba</label>
+          <input step="number" id="valor-da-bomba">
+        </div>
+
+        <div id="textos">
+          <label for="valorDoCombustivel" id="litros-bomba">Litros Da Bomba</label>
+          <input step="number" id="litros-da-bomba">
+        </div>
+
+        <div id="textos">
+          <label for="ConsumoCarro" id="consumo-carro">Consumo do seu carro</label>
+          <input step="number" id="consumo-do-carro">
+        </div>
+        
+        <div id="result">
+          <input type="number" id="resultado" placeholder="Resultado " disabled>
+        </div>
+        <input type="submit" value="Calcular" class="btn" id="botao">
+        </form>
+      </div>
+    </div>
+    
+    <script src="app.js"></script>
+  </body>
+</html>

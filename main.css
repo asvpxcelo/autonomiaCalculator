@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DotGothic16', sans-serif;
+    text-transform: uppercase;
+}
+
+
+a {
+    color: #fff;
+}
+
+body {
+    background: rgb(128,28,5);
+background: linear-gradient(90deg, rgba(128,28,5,1) 0%, rgba(2,168,145,1) 0%, rgba(78,43,184,1) 0%, rgba(77,40,188,1) 14%, rgba(77,40,188,1) 14%, rgba(76,38,192,1) 24%, rgba(75,37,194,1) 29%, rgba(74,36,197,1) 36%, rgba(73,34,201,1) 45%, rgba(72,33,203,1) 51%, rgba(72,33,203,1) 57%, rgba(72,32,204,1) 60%, rgba(67,25,217,1) 100%, rgba(160,117,203,1) 100%, rgba(0,212,255,1) 100%);
+    
+}
+
+h1, h2, h3 {
+    margin-top: 20px;
+}
+/* Form */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.container #group {
+    border: 1px solid;
+    padding: 70px;
+    display: inline-block;
+}
+
+#group {
+    border-radius: 5px;
+    box-shadow: -2px -2px  gold;
+}
+
+input[step="number"], input[step="number"] {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: -3px -3px -1px green;
+    padding-bottom: 13px;
+    text-align: center;
+    margin-bottom: 13px;
+}
+
+#textos {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 6px;
+}
+
+
+
+#textos:hover {
+    color: gold;
+    font-size: 15px;
+}
+
+
+
+input[type="number"] {
+    margin-top: 30px;
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+input:hover {
+    color: teal;
+}
+
+#quilo {
+    padding-bottom: 30px;
+    font-size: 40px;
+    color: #fff;
+}
+
+#quilo:hover {
+    color: gold;
+}
+
+
+/* button */
+
+.btn { 
+    background: #fff;
+    color: teal;
+    width: 100%;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.btn:hover {
+    color: goldenrod;
+}
+
+
+/* Result */
