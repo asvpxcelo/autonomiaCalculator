@@ -1,9 +1,10 @@
 ## autonomiaCalculator
 <p align="center">Calcule a Autonomia do seu veículo.</p>
 
-![image](https://user-images.githubusercontent.com/51215549/110195099-d30c9a00-7e1a-11eb-9a95-ae9793119a17.png)
+![image](https://user-images.githubusercontent.com/51215549/110195161-1535db80-7e1b-11eb-8f5f-61b114cf0099.png)
 
-<p>Acima você pode inserir os valores referente ao combustível, ao consumo do seu carro e a quantidade de litros da bomba.</p>
-<p> A aplicação irá calcula-los e retornará um valor.</p>
+
+<p align="center">Acima você pode inserir os valores referente ao combustível, ao consumo do seu carro e a quantidade de litros da bomba.</p>
+<p align="center"> A aplicação irá calcula-los e retornará um valor.</p>
 
 
